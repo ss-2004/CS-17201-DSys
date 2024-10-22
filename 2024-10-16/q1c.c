@@ -1,4 +1,4 @@
-//Client
+// Q1 : implementing the TCP client-server system with a load balancer (Client)
 
 #include <stdio.h>
 #include <stdlib.h>
