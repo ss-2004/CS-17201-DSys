@@ -1,3 +1,5 @@
+// Q2 : Convert string to upper case using client server program with TCP in Java
+
 import java.io.*;
 import java.net.*;
 
