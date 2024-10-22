@@ -1,4 +1,4 @@
-//Q1 Server
+// Q1 : implementing the TCP client-server system with a load balancer (Server)
 
 #include <stdio.h>
 #include <stdlib.h>
